@@ -1,4 +1,4 @@
-package com.crupee.logutil;
+package com.crupee.logutils;
 
 import android.content.Context;
 
